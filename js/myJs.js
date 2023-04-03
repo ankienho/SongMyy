@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://facebook.com/an.hokien";
+            window.location = "https://www.youtube.com/watch?v=oJsqyd_7Urg";
           },
         });
       }
