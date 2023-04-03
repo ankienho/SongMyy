@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Chịu hơm :3?",
   text11:
     "chịu hay hơm thì cũng feedback đồ đi bạng",
-  text12: "Nhấn dô đây để ib tui luông nà!",
+  text12: "Còn đây là món quà nhỏ cho bạn chẻ nha (zui lòng nhấn dô)",
 };
 
 $(document).ready(function () {
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='gõ đại đi, chỉ cần nhấn bàn phím là được (tin tui :>)'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
