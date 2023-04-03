@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Unlock trạng thái mới nhe, yêu đương đồ đi ha <3",
   text10: "Chịu hơm :3?",
   text11:
-    "chịu hay hơm thì cũng feedback đồ đi bạng",
+    "chịu hay hơm thì cũng feedback đồ đi bạng, cho tui cái tín hiệu (mặc dù là có đó nma giả vờ chưa thấy nhe! cho lại đi)",
   text12: "Còn đây là món quà nhỏ cho bạn chẻ nha (zui lòng nhấn dô)",
 };
 
